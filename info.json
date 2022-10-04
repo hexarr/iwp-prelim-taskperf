@@ -1,0 +1,159 @@
+{
+  "Aralar": {
+    "basic-info": {
+      "profile": "images/aralar_pfp.PNG",
+      "name": "Dennis Eleazar Aralar",
+      "designation": "Developer",
+      "email": "eleazararalar@gmail.com",
+      "phone-number": "0976-0746-015",
+      "about-me": "I am a 4th year College student at STI College Ortigas Cainta. I’m currently taking the course of Bachelor of Science in Computer Science major in Web programming."
+    },
+    "social-links": {
+      "facebook": "https://www.facebook.com/eleazar.aralar",
+      "github": "https://github.com/xEleazar07",
+      "linked-in": ""
+    },
+    "what-i-do": {
+      "first": {
+        "do": "Web Design",
+        "desc": "Designing web layout for more efficient, user-friendly, easy to navigate website to use."
+      }
+    },
+    "projects": {
+      "project1": {
+        "title": "Chatbot with Messenger UI",
+        "image": "images/aud_project2.png",
+        "stack": "HTML, CSS, JS, Python"
+      }
+    }
+  },
+  "Gervacio": {
+    "basic-info": {
+      "profile": "images/ken_pfp.jpg",
+      "name": "John Kenneth Gervacio",
+      "designation": "Web Developer",
+      "email": "johnkgervacio@gmail.com",
+      "phone-number": "0906-8844-368",
+      "about-me": "college student that is currently taking web development, fullstack development in particular. for now, i am currently working on our thesis capstone in which my specific skill were set to improve overtime. soon after graduation, i'm planning to self-learn react js to complete my first stack called 'MERN'; build more project to attain more qualification from job opportunities."
+    },
+    "social-links": {
+      "facebook": "https://www.facebook.com/kenwuuuu/",
+      "instagram": "https://www.instagram.com/gervacio.ken/",
+      "twitter": "https://twitter.com/gervacio_ken",
+      "github": "https://github.com/jkenger",
+      "linked-in": "https://www.linkedin.com/in/gervacioken"
+    },
+    "what-i-do": {
+      "first": {
+        "do": "NodeJS and Express",
+        "desc": "Building back-end technology in a high qualification standard."
+      },
+      "second": {
+        "do": "Web UI",
+        "desc": "Designing web layout for more efficient, user-friendly, easy to navigate website to use."
+      },
+      "third": {
+        "do": "API",
+        "desc": "Designing scalable, usable, secured contract of services for your web application."
+      },
+      "fourth": {
+        "do": "Mongo DB",
+        "desc": "For its known scability and flexible data, we assure you to carry out the up-to-date technology of databases."
+      }
+    },
+    "projects": {
+      "project1": {
+        "title": "BFAR Management System (in development)",
+        "image": "images/ken_project1.png",
+        "stack": "EJS, Node/Express, Mongodb"
+      },
+      "project2": {
+        "title": "Weather Tracker",
+        "image": "images/ken_project2.png",
+        "stack": "HTML, CSS, JS, REST api"
+      },
+      "project3": {
+        "title": "Simple Login/Registration Page",
+        "image": "images/ken_project3.png",
+        "stack": "EJS, Node JS, Mongodb"
+      },
+      "project4": {
+        "title": "Personal Blog",
+        "image": "images/ken_project4.png",
+        "stack": "EJS, Tailwind, MongoDB/Mongoose, Node/Express"
+      }
+    }
+  },
+  "Valdez": {
+    "basic-info": {
+      "profile": "images/valdez_pfp.jpg",
+      "name": "Audrey Valdez",
+      "designation": "Game/Web Developer and UX Designer",
+      "email": "audrey.valdez1216@gmail.com",
+      "phone-number": "0928-8937-415",
+      "about-me": "Certified simp for Elira Pendora of Nijisanji EN first wave, Lazulight. And Nanashi Mumei of Hololive EN 2nd Generation, Council/HoloCouncil (formerly known as CounsilRys now.)"
+    },
+    "social-links": {
+      "facebook": "https://www.facebook.com/hexarrr/",
+      "twitter": "https://twitter.com/Hexarrr",
+      "github": "https://github.com/hexarr"
+    },
+    "what-i-do": {
+      "first": {
+        "do": "Unity",
+        "desc": "Make games for Desktop and Mobile."
+      },
+      "second": {
+        "do": "Python",
+        "desc": "Designing backend and Image Processing projects."
+      },
+      "third": {
+        "do": "API",
+        "desc": "I don't know why but I can :)"
+      },
+      "fourth": {
+        "do": "Typescript",
+        "desc": "Still learning :D"
+      },
+      "fifth": {
+        "do": "UX Design",
+        "desc": "Design layouts that are easily interpreted and use by the end users."
+      },
+      "sixth": {
+        "do": "Databases",
+        "desc": "Manage and organize databases."
+      },
+      "seventh": {
+        "do": "Web Design",
+        "desc": "Creating interactive web user interfaces."
+      }
+    },
+    "projects": {
+      "project1": {
+        "title": "Blackjack Table",
+        "image": "images/aud_project1.png",
+        "stack": "HTML, CSS, Node"
+      },
+      "project2": {
+        "title": "Chatbot with Messenger UI",
+        "image": "images/aud_project2.png",
+        "stack": "HTML, CSS, JS, Python"
+      },
+      "project3": {
+        "title": "Interactive Register Page",
+        "image": "images/aud_project3.gif",
+        "stack": "HTML, CSS, Node"
+      },
+      "project4": {
+        "title": "Eterna Garden (in development)",
+        "image": "",
+        "stack": "Unity, C#, Blender"
+      },
+      "project5": {
+        "title": "AI 3x3 Rubiks Cube Solver with Image Processing (in development)",
+        "image": "",
+        "stack": "Python, Tensorflow"
+      }
+    }
+  }
+}
