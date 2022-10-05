@@ -145,11 +145,16 @@
         "stack": "HTML, CSS, Node"
       },
       "project4": {
+        "title": "Blackjack Table in Unity",
+        "image": "images/aud_project4.png",
+        "stack": "Unity"
+      },
+      "project5": {
         "title": "Eterna Garden (in development)",
         "image": "",
         "stack": "Unity, C#, Blender"
       },
-      "project5": {
+      "project6": {
         "title": "AI 3x3 Rubiks Cube Solver with Image Processing (in development)",
         "image": "",
         "stack": "Python, Tensorflow"
